@@ -5,7 +5,7 @@ return animal
 
 var animal = "dog";
 
-function yourAnimal() { var animal = "cat"; 
+function yourAnimal() { var animal = "dog"; 
 return myAnimal()
 }
 
@@ -17,6 +17,8 @@ var theFunk = funkyfunction()();
 {var theFunk = "Funky!";
 return theFunk()
 }
+
+
 
 
 

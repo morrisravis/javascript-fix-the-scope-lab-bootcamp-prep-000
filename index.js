@@ -1,24 +1,24 @@
 
 function myAnimal() { var animal = "dog";
-return animal
+return animal;
 }
 
 var animal = "dog";
 
 function yourAnimal() { var animal = "dog"; 
-return myAnimal()
+return myAnimal();
 }
 
 function add2(n) {
-  return n + 2
+  return n + 2;
 }
 
 var theFunk = funkyfunction()();
 {var theFunk = "Funky!";
-return theFunk()
+return theFunk();
 }
 
-var theFunk = funkyfunction()
+var theFunk = funkyfunction();
 
 
 
